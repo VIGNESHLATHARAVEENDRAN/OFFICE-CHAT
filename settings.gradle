@@ -1,0 +1,2 @@
+rootProject.name='VICKYCHAT'
+include ':app'
